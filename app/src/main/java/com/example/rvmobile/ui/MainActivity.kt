@@ -1,7 +1,9 @@
-package com.example.rvmobile
+package com.example.rvmobile.ui
 
-import android.support.v7.app.AppCompatActivity
+
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+import com.example.rvmobile.R
 
 class MainActivity : AppCompatActivity() {
 
